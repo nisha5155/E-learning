@@ -19,11 +19,11 @@ const Footer = () => {
             </li>
             <li className="footer-list-item">
               <i className="fas fa-phone-alt footer-icon"></i>
-              <p className="footer-item-text">(+91) 9876543210</p>
+              <p className="footer-item-text">(+91) 8709402057</p>
             </li>
             <li className="footer-list-item">
               <i className="fas fa-envelope footer-icon"></i>
-              <p className="footer-item-text"><a href="mailto:nirajkumar.sde@gmail.com">nirajkumar.sde@gmail.com</a></p>
+              <p className="footer-item-text"><a href="mailto:nishabharti2641@gmail.com">nishabharti2641@gmail.com</a></p>
             </li>
           </ul>
         </div>
